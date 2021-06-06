@@ -6,8 +6,7 @@
 trigger:
 - master
 
-pool:
-  vmImage: GHBRLPE0656C1
+pool: GHBRLPE0656C1
 
 variables:
   buildConfiguration: 'Release'
