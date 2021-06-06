@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: GHBRLPE0656C1
+pool: Default
 
 variables:
   buildConfiguration: 'Release'
